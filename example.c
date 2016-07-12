@@ -1,6 +1,6 @@
 int led = 3;
 int sensor = A0;
-String url = "https://labs.decoded.com/tech/newapi/?type=flash&text=DANER&colour=red";
+String url = "https://";
 
 // the setup function runs once when you press reset or power the board
 void setup() {
