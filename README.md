@@ -1,2 +1,2 @@
-# tech_sensor
-Code samples for Arduino
+# Arduino Sensor Samples
+Code samples for Humidity
